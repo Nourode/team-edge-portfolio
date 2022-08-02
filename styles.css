@@ -1,0 +1,34 @@
+html, body {
+    width: 70%;
+    font: size 15
+}
+body {
+    text-align: center;
+    color: blue;
+}
+
+.green-headings {
+    color: green;
+}
+
+#info-button {
+    text-decoration: none;
+    color: white;
+    background-color: green;
+    border: solid green 6px;
+}
+
+
+
+
+html, body {
+    width: 50;
+    font: size 10
+}
+body {
+    text-align: center;
+    color: grey;
+}
+
+.blue-heading
+    color: 
