@@ -23,12 +23,101 @@ body {
 
 html, body {
     width: 50;
-    font: size 10
+    font: size 60
 }
 body {
     text-align: center;
     color: grey;
 }
 
-.blue-heading
-    color: 
+.blue-heading{
+    color: blue
+}
+
+    #info-button {
+    text-decoration: no;
+    color: white;
+    background-color: red
+    border : solid yellow 6px;
+}
+   
+    html, body {
+        width: 50;
+        font: size 70
+    }
+    body {
+        text-align: center;
+        color: red
+
+}
+
+    black-heading{
+    color: black
+}
+
+    
+    html, body {
+        width: 80;
+        font: size 70
+    }
+    body {
+        text-align: center;
+        color: black
+
+    }
+
+    blue-heading{
+    color: blue
+    }
+
+
+   
+    html, body {
+        width: 90;
+        font: size 80
+    }
+    body {
+        text-align: center;
+        color: green
+
+    }
+
+    black-heading{
+    color: black
+    }
+
+
+    
+    html, body {
+        width: 90;
+        font: size 80
+    }
+    body {
+        text-align: center;
+        color: black
+
+    }
+
+    blue-heading{
+    color:blue
+    }
+
+    html, body {
+        width: 60;
+        font: size 70
+    }
+    body {
+        text-align: center;
+        color: black
+
+    }
+
+    blue-heading{
+    color: blue
+    }
+
+
+
+
+
+
