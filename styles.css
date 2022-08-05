@@ -1,6 +1,6 @@
 html, body {
     width: 70%;
-    font: size 15
+    font-size: 60px
 }
 body {
     text-align: center;
@@ -17,7 +17,9 @@ body {
     background-color: green;
     border: solid green 6px;
 }
-
+body {
+    background-color: grey;
+  }
 
 
 
@@ -25,7 +27,7 @@ html, body {
     width: 50;
     font: size 60
 }
-body {
+body { 
     text-align: center;
     color: grey;
 }
@@ -33,13 +35,10 @@ body {
 .blue-heading{
     color: blue
 }
-
-    #info-button {
-    text-decoration: no;
-    color: white;
-    background-color: red
-    border : solid yellow 6px;
+p.italic{
+font-style:italic;
 }
+
    
     html, body {
         width: 50;
@@ -74,7 +73,7 @@ body {
    
     html, body {
         width: 90;
-        font: size 80
+        font-size: 80
     }
     body {
         text-align: center;
